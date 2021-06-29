@@ -1,0 +1,14 @@
+
+Results:
+- F1-score (micro) 0.7419
+- F1-score (macro) 0.6649
+
+By class:
+ADDRESS    tp: 7 - fp: 5 - fn: 3 - precision: 0.5833 - recall: 0.7000 - f1-score: 0.6364
+AGE        tp: 0 - fp: 0 - fn: 1 - precision: 0.0000 - recall: 0.0000 - f1-score: 0.0000
+DOB        tp: 3 - fp: 0 - fn: 0 - precision: 1.0000 - recall: 1.0000 - f1-score: 1.0000
+EMAIL      tp: 18 - fp: 3 - fn: 0 - precision: 0.8571 - recall: 1.0000 - f1-score: 0.9231
+GENDER     tp: 2 - fp: 0 - fn: 1 - precision: 1.0000 - recall: 0.6667 - f1-score: 0.8000
+NAME       tp: 18 - fp: 5 - fn: 8 - precision: 0.7826 - recall: 0.6923 - f1-score: 0.7347
+NATIONALITY tp: 3 - fp: 3 - fn: 2 - precision: 0.5000 - recall: 0.6000 - f1-score: 0.5455
+PHONE      tp: 18 - fp: 14 - fn: 3 - precision: 0.5625 - recall: 0.8571 - f1-score: 0.6792
